@@ -3,7 +3,8 @@ console.log(x); // check output
 x = 5;
 x = 4;
 x = 6;
-let X = 7; // we can declare x and X as two different variable i.e variables are case sensitive but poor programming practise
+let X = 7; /* we can declare x and X as two different variable i.e variables are case sensitive but 
+            poor programming practise*/
 //const y = 7; //if we do not want to change value of variable
 let y = 8;
 let z = x + y;
